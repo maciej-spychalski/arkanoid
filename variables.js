@@ -10,8 +10,8 @@ var dx = 2;
 var dy = -2;
 var ballRadius = 15;
 
-var paddleHeight = 10;
-var paddleWidth = 75;
+var paddleHeight = 8;
+var paddleWidth = 85;
 var paddleX = (canvas.width-paddleWidth)/2;
 
 var brickRowCount = 3;
